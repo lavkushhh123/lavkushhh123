@@ -2,7 +2,7 @@
 
 # 👋 Hi, I am Lavkush Nishad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiastic;Frontend+Developer;Building+Projects+%26+Learning" alt="Dynamic Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiastic;Building+Projects+%26+Learning" alt="Dynamic Introduction" />
 
 <p>Turning ideas into real-world applications.</p>
 
