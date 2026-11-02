@@ -90,6 +90,18 @@ A platform designed to help students explore career paths, analyze skills, and i
 
 <div align="center">
 
+
+<br/>
+
+##  Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lavkushhh123&label=PROFILE+VIEWS&color=8957e5&style=flat" alt="Profile Views" />
+
+</div>
+
+
 *Learning by building. Improving with every project.*
 
 </div>
