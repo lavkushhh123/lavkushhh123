@@ -53,13 +53,6 @@ A web platform focused on career prediction, skill analysis and career-related i
 - **Tech:** React, JavaScript, CSS, REST APIs
 - [View Repository](https://github.com/lavkushhh123/Parakh)
 
-### 2. Personal Birthday Website
-
-A multi-page React website featuring photo memories, animations and interactive surprises.
-
-- **Tech:** React, React Router, CSS
-- [View Repository](https://github.com/lavkushhh123/BIRTHDAY)
-
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
