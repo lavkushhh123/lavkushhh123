@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Lavkush+Nishad+%F0%9F%91%8B" alt="Hi, I am Lavkush Nishad" />
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiastic;Building+Projects+%26+Learning" alt="Dynamic Introduction" />
 
 <a href="YOUR_RESUME_LINK">
