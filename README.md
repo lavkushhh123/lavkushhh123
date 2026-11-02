@@ -1,13 +1,20 @@
+ <div align="center">
 
-<div align="center">
+# 👋 Hi, I am Lavkush Nishad
 
-# Hi, I'm Lavkush Nishad 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiastic;Frontend+Developer;Building+Projects+%26+Learning" alt="Dynamic Introduction" />
 
-### Frontend Developer | B.Tech Student | Problem Solver
+<p>Turning ideas into real-world applications.</p>
 
-Building projects, learning new technologies, and turning ideas into useful applications.
-
-[LinkedIn](https://www.linkedin.com/in/lavkush-nishad/) • [LeetCode](https://leetcode.com/u/_Lavkushhh/)
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/RESUME-2E9D50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
+<a href="https://www.linkedin.com/in/lavkush-nishad/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/_Lavkushhh/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
 
 </div>
 
@@ -17,10 +24,10 @@ Building projects, learning new technologies, and turning ideas into useful appl
 
 - 🎓 B.Tech student interested in software development.
 - 💻 Working with React, JavaScript, C++ and web technologies.
-- 🚀 Contributing to **PARAKH — AI Career & Skill Intelligence Platform** as a frontend developer.
+- 🚀 Contributing to **PARAKH — AI Career & Skill Intelligence Platform** as a Frontend Developer at MLCOE.
 - 🧠 Practising Data Structures and Algorithms.
 - 🌱 Currently improving my React skills and building real-world projects.
-- 🎯 Goal: Become a skilled full-stack developer.
+- 🎯 Goal: Become a skilled Full Stack Developer.
 
 ## 🛠️ Tech Stack
 
@@ -45,25 +52,37 @@ Building projects, learning new technologies, and turning ideas into useful appl
 
 ## 🚀 Featured Projects
 
-### 1. PARAKH — Career & Skill Intelligence Platform
+### 1. PARAKH — AI Career & Skill Intelligence Platform
 
-A web platform focused on career prediction, skill analysis and career-related insights.
+A platform designed to help students explore career paths, analyze skills, and identify skill gaps.
 
 - **Role:** Frontend Developer
 - **Tech:** React, JavaScript, CSS, REST APIs
+- **Organization:** MLCOE
 - [View Repository](https://github.com/lavkushhh123/Parakh)
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=lavkushhh123&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushhh123&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+</div>
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/lavkush-nishad/
-- 💻 LeetCode: https://leetcode.com/u/_Lavkushhh/
-- 📧 Email: lavkushhelium@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/lavkush-nishad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/_Lavkushhh/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+📧 **Email:** lavkushhelium@gmail.com
 
 ---
 
