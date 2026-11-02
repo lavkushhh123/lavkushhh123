@@ -1,7 +1,9 @@
 
+
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Lavkush+Nishad+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiastic;Frontend+Developer;Building+Projects+%26+Learning" alt="Lavkush Nishad - Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=65&lines=Hi%2C+I+am+Lavkush+Nishad+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiastic;Frontend+Developer;Building+Projects+%26+Learning" alt="Lavkush Nishad Introduction" />
 
 <p>Turning ideas into real-world applications.</p>
 
