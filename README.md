@@ -74,6 +74,16 @@ A platform designed to help students explore career paths, analyze skills, and i
 
 </div>
 
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lavkushhh123/lavkushhh123/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
+
 ## 🤝 Connect With Me
 
 <p>
