@@ -1,24 +1,25 @@
- <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Lavkush+Nishad+%F0%9F%91%8B" alt="Hi, I am Lavkush Nishad" />
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Lavkush+Nishad+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiastic;Frontend+Developer;Building+Projects+%26+Learning" alt="Lavkush Nishad - Introduction" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiastic;Building+Projects+%26+Learning" alt="Dynamic Introduction" />
+<p>Turning ideas into real-world applications.</p>
 
 <a href="YOUR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/RESUME-2E9D50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  <img src="https://img.shields.io/badge/RESUME-2E9D50?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lavkush-nishad/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/_Lavkushhh/">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
 ---
+
+ 
 
 ## 👨‍💻 About Me
 
